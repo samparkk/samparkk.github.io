@@ -116,14 +116,14 @@ CSS STRUCTURE:
 :root {
   /* --body-font: "Roboto", sans-serif;
   --heading-font: 'Montserrat', sans-serif; */
-  --body-font: 'Press Start 2P', cursive;
-  --heading-font: 'Press Start 2P', cursive;
+  --body-font: "Montserrat", sans-serif;
+  --heading-font: "Montserrat", sans-serif;
   /* font-family: 'Press Start 2P', cursive; */
 }
 
 /* Bootstrap */
 body {
-  --heading-font: 'Press Start 2P', cursive;
+  --heading-font: "Montserrat", sans-serif;
   --heading-font-weight: 400;
   --heading-color: #111;
   --heading-line-height: 1.24;
@@ -131,7 +131,7 @@ body {
   --swiper-theme-color: #C5A992;
 
   /* bootstrap */
-  --bs-body-font-family: 'Press Start 2P', cursive;
+  --bs-body-font-family: 'sans-serif', cursive;
   --bs-body-font-size: 12px;
   --bs-body-font-weight: 200;
   --bs-body-line-height: 0.5;
