@@ -124,7 +124,7 @@ CSS STRUCTURE:
 /* Bootstrap */
 body {
   --heading-font: "Montserrat", sans-serif;
-  --heading-font-weight: 400;
+  --heading-font-weight: 300;
   --heading-color: #111;
   --heading-line-height: 1.24;
 
